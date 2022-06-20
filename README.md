@@ -5,12 +5,14 @@
 - 😅 Fun fact: I like exotic animals
 - 🎲 My Hobbies: Video Games, Watch and Read
 
-<p align="center"> 
+<div align="center">
+    <a href="https://github.com/pathvasariah">
     <img src="https://github-readme-stats.vercel.app/api?username=pathvasariah&count_private=true&show_icons=true&theme=github_dark" alt="Patricio Vasariah" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathvasariah&&langs_count=8&layout=compact&theme=github_dark" alt="Patricio Vasariah" height="165" />
-</p>
+<div>
 
 <div style="display: inline_block" ><br>
+  <a href="https://github.com/pathvasariah">
   <img align="center" alt="Path-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Path-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Path-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

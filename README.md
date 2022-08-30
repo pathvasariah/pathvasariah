@@ -1,9 +1,9 @@
 ### Olá 😎🌹
 
-- 🎈 I'm nineteen years old
-- 🌱 I’m currently learning JavaScript, Python
-- 😅 Fun fact: I like exotic animals
-- 🎲 My Hobbies: Video Games, Watch and Read
+- 🎈 I'm nineteen years old.
+- 🌱 I am currently deepening my knowledge of JavaScript.
+- 😅 Fun fact: I like exotic animals.
+- 🎲 My Hobbies: Video Games, Watch and Read.
 
 <div align="center">
     <a href="https://github.com/pathvasariah">
@@ -16,7 +16,7 @@
   <img align="center" alt="Path-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Path-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Path-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Path-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--   <img align="center" alt="Path-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Path-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Path-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   <img align="center" alt="Path-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>

@@ -1,8 +1,7 @@
 ### Olá 😎🌹
 
-- 🎈 I'm twenty one years old.
+- 🎈 I was born in 2003.
 - 🌱 I am currently deepening my knowledge of Data Science.
-- 😅 Fun fact: I like exotic animals.
 - 🎲 My Hobbies: Video Games, Watch, Read, Theology and Personal Developing.
 
 <div align="center">
@@ -16,7 +15,7 @@
   <img align="center" alt="Path-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Path-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Path-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Path-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+  <img align="center" alt="Path-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Path-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <!--<img align="center" alt="Path-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>-->
   <img align="center" alt="Path-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
